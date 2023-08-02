@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://faab007.nl/littlelink/images/avatar.png" width="192" height="192">
-  <h1>Faabn007NL</h1>
+  <h1>Faab007NL</h1>
 </div>
 
 <div align="center">
