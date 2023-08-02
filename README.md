@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://faab007.nl/littlelink/images/avatar.png" width="192" height="192">
+  <h1>Faabn007NL</h1>
+</div>
 
-<!--
-**faab007nl/faab007nl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  You can find my website here
+</br>
+  https://faab007.nl
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h2>📊 Statistics</h2>
+  
+  [![Repos Badge](https://badges.strrl.dev/repos/faab007nl)](https://badges.strrl.dev) [![Commits Badge](https://badges.strrl.dev/commits/all/faab007nl)](https://badges.strrl.dev) [![Contributions Badge](https://badges.strrl.dev/contributions/all/faab007nl)](https://badges.strrl.dev) [![Years Badge](https://badges.strrl.dev/years/faab007nl)](https://badges.strrl.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Metrics](https://raw.githubusercontent.com/faab007nl/faab007nl/master/github-metrics.svg)
+  
+  <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=faab007nl&theme=rogue" alt=" Faab007NL's Contribution Graph.">
+</div>
