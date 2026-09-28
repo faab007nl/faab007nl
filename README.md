@@ -16,5 +16,5 @@
 
   ![Metrics](https://raw.githubusercontent.com/faab007nl/faab007nl/master/github-metrics.svg)
   
-  <img src="https://raw.githubusercontent.com/faab007nl/faab007nl/output/activity-graph.svg?v=1" alt="Faab007NL's github activity graph">
+  <img src="https://raw.githubusercontent.com/faab007nl/faab007nl/refs/heads/output/activity-graph.svg?v=1" alt="Faab007NL's github activity graph">
 </div>
