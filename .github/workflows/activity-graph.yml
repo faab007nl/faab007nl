@@ -20,10 +20,10 @@ jobs:
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          username: YOUR_USERNAME
+          username: faab007nl
           options: theme=github-dark&area=true&hide_border=true
           output_path: dist/activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}YOUR_USERNAME
 
       - name: Publish SVG
         uses: crazy-max/ghaction-github-pages@v3.1.0
